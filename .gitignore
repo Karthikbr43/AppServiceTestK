@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AppServiceTestApi/AppServiceTestApi/obj
+/AppServiceTestApi/AppServiceTestApi/Properties
+/AppServiceTestApi/.vs/AppServiceTestApi/v16/.suo
